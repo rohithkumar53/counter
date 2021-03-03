@@ -1,0 +1,16 @@
+body{
+	background-color: #fcfc62;
+}
+.container1{
+	box-sizing: border-box;
+	width: 400px;
+	height: 350px;
+	background: #feffea;
+	margin: auto auto;
+	text-align: center;
+	border: 5px solid #a3a3a3;
+	margin-top: 60px;
+}
+#count{
+	font-size: 150px;
+}
